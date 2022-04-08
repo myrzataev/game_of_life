@@ -35,7 +35,7 @@ class Field:
                 self.a[i].append(0)
                 self.l[i].append(0)
         for i in range(1,self.m):
-            self.l[11][i] = 2
+            self.l[self.n//2][i] = 2
 
         self.draw()
 
@@ -111,9 +111,9 @@ class NewClass(Field):
         for i in range(1, self.n - 1):
             for j in range(1, self.m - 1):             
              
-                if self.a[i][j] == 1 and i > 11 and j > 12:
+                if self.a[i][j] == 1 and i > (self.n//2) and j > (self.m//2):
                     color = "magenta"
-                elif self.a[i][j] == 1 and i < 11 and j < 12:
+                elif self.a[i][j] == 1 and i < (self.n//2) and j <  (self.m//2):
                     color = "lime"
 
                 
