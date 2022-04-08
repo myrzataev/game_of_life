@@ -7,3 +7,5 @@
 ## What's new?
 ***I have added new opportunities for Lives***
 ***This appearance of a new object I called it a "Window into a new world". The lives after passing this window improve and change their colors*** 
+![Снимок экрана (8)](https://user-images.githubusercontent.com/99857663/162511636-1e15da31-26ee-4469-894b-87690281e207.png)
+***In this picture you can see that Lifes before crossing the window their colors are green***
